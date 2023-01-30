@@ -1,0 +1,65 @@
+.experience {
+  
+    height: 190vh;
+}
+.experience__content{
+    display: flex;
+    gap: 5rem;
+    color: black;
+}
+.experience__img {
+
+    background: white;
+    border-radius: 50%;
+    width: auto;
+    height: 5em;
+}
+.experience__text h5 {
+    color: black;
+}
+.experience__text h6 {
+    font-style: italic;
+}
+.modal_right{
+    float: right;
+}
+.modalImage {
+    background: white;
+    border-radius: 50%;
+    width: auto;
+    height: 3em;
+}
+.modal_title{
+    display: flex;
+    gap: 2rem;
+    color: black;
+}
+.modal_date{
+    font-size: small;
+    font-weight: normal;
+}
+@media screen and (max-width: 1224px) {
+    .experience {
+        padding-top: 30rem;
+        height: 290vh;
+    }
+}
+@media screen and (max-width: 600px) {
+    .experience {
+        
+        height: 150vh;
+    }
+    .experience__text h5 {
+        font-size: 15px;
+    }
+    .experience__text h6 {
+        font-size: 10px;
+    }
+    .experience__text {
+        font-size: 15px;
+        padding-bottom: 5rem;
+    }
+    .experience__content{
+        gap: 0rem;
+    }
+}

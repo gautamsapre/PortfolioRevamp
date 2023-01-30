@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.f3aa9954.css",
+    "main.js": "/Portfolio/static/js/main.3354fe4e.js",
+    "static/media/self2.jpg": "/Portfolio/static/media/self2.f1dded586c83966b52fa.jpg",
+    "static/media/Self.png": "/Portfolio/static/media/Self.71152f486e7da3cefb3b.png",
+    "static/media/iaq.png": "/Portfolio/static/media/iaq.bb451e0b1013145f9872.png",
+    "static/media/travel_secure.png": "/Portfolio/static/media/travel_secure.0d9d67cd4508f580846b.png",
+    "static/media/Gautam_Sapre_Resume.pdf": "/Portfolio/static/media/Gautam_Sapre_Resume.c569e9ef8aa1e518873f.pdf",
+    "static/media/Carpool.png": "/Portfolio/static/media/Carpool.9369790807978abd2150.png",
+    "static/media/UTD.png": "/Portfolio/static/media/UTD.3ace7574c8d1d19921a4.png",
+    "static/media/Coppell.png": "/Portfolio/static/media/Coppell.e28c906995ed29cd55c9.png",
+    "static/media/SpiderSmart.png": "/Portfolio/static/media/SpiderSmart.78f440c80a10466f6cd7.png",
+    "static/media/CPI.png": "/Portfolio/static/media/CPI.fcd93f12f258f35a3784.png",
+    "static/media/AWS.png": "/Portfolio/static/media/AWS.42796768b6ebc37bb55c.png",
+    "index.html": "/Portfolio/index.html",
+    "main.f3aa9954.css.map": "/Portfolio/static/css/main.f3aa9954.css.map",
+    "main.3354fe4e.js.map": "/Portfolio/static/js/main.3354fe4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3aa9954.css",
+    "static/js/main.3354fe4e.js"
+  ]
+}
